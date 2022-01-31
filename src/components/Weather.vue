@@ -6,6 +6,15 @@
         <option value="Den-haag" name="Den-haag">Den haag</option>
         <option value="Rotterdam" name="Rotterdam">Rotterdam</option>
         <option value="Amsterdam" name="Amsterdam">Amsterdam</option>
+        <option value="Breda" name="Breda">Breda</option>
+        <option value="Maatricht" name="Maastricht">Maastricht</option>
+        <option value="Arnhem" name="Arnhem">Arnhem</option>
+        <option value="Nijmegen" name="Nijmegen">Nijmegen</option>
+        <option value="Eindhoven" name="Eindhoven">Eindhoven</option>
+        <option value="'s HertogenBosch" name="'s Hertogen-Bosch">'s Hertogen-Bosch</option>
+        <option value="Zwolle" name="Zwolle">Zwolle</option>
+        <option value="Leiden" name="Leiden">Leiden</option>
+        <option value="Delft" name="Delft">Delft</option>
     </select>
   <button>Show the weather</button>
 </form>
